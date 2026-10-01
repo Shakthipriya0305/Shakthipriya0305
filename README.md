@@ -398,33 +398,6 @@ to Smart Garments.
 
 ---
 
-# 📚 Currently Learning
-
-```text
-Java
-   │
-   ├── Object-Oriented Programming
-   ├── Collections
-   ├── Exception Handling
-   └── Problem Solving
-          │
-          ▼
-Data Structures & Algorithms
-          │
-          ▼
-SQL & Databases
-          │
-          ▼
-Python & Data Analytics
-          │
-          ▼
-Backend Development
-          │
-          ▼
-AI-powered Applications
-```
-
----
 
 # 🎯 Career Interests
 
